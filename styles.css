@@ -72,7 +72,7 @@ button {
 .coracao {
   width: 307px;
   height: 10px;
-  background-image: url('imagens/coracaos.png');
+  background-image: url('./imagens/coracaos.png');
   background-repeat: repeat-x;
   background-size: contain;
   position: absolute;
